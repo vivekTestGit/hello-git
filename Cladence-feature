@@ -1,0 +1,10 @@
+//this is a recipe class
+
+public class Recipe{
+
+public static void(String args[]){
+String a = Cladence;
+String b = Kazabazoo;
+System.out.println("This feature is"+ a + b);
+}
+}
